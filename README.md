@@ -27,3 +27,12 @@ ChromaDB (optional for memory)
 [![](https://visitcount.itsvg.in/api?id=Ritesh7Shah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# AI Calendar Agent Demo
+
+Watch the demo video: https://youtu.be/HNFtK1YTicE
+
+Description: This workflow allows users to register via a form, automatically schedules meetings on Google Calendar, and sends 30-min reminders.
+
+![Calendar Workflow](path_to_canva_image.png)
+
